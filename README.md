@@ -32,10 +32,46 @@
 
 ## 📌 Featured Projects
 
-- 🤖 AI Resume Analyzer
-- 🧠 AI Text Summarizer
-- 🗺️ AI Roadmap Generator
-- 💬 AI Assistant Chatbot
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Resume Analyzer
+
+📄 AI-powered resume analysis tool with ATS scoring, skill suggestions, and improvement recommendations.
+
+🔗 <a href="https://resume-analyzer-d8tb.onrender.com/">Live Demo</a>
+💻 <a href="https://github.com/charan-lgtm/resume_analyzer.git">Repository</a>
+
+</td>
+
+<td width="50%">
+
+
+## 🗺️ AI Roadmap Generator
+
+🚀 Personalized AI roadmap generator for structured learning and career guidance.
+
+🔗 <a href="https://ai-roadmap-generator-rztj.onrender.com">Live Demo</a>
+💻 <a href="https://github.com/charan-lgtm/AI-roadmap_generator.git">Repository</a>
+
+</td>
+
+<td width="50%">
+
+## 💬 AI Analyzing file data
+
+🤖 Conversational AI assistant built using Flask and modern LLM APIs.
+
+
+💻 <a href="https://github.com/charan-lgtm/Uploding_file.git">Repository</a>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -51,7 +87,8 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-link
-- Email: your-email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/charan-k-9a857032a 
+- Email: kc1993337@gmail.com
