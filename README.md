@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="300"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech 3rd Year Student
+- 🎓 B.Tech 4th Year Student
 - 🤖 Building AI & LLM Projects
 - 🌱 Learning Generative AI, RAG & Agentic AI
 - 💻 Skilled in Python, Flask, HTML, CSS & JavaScript
@@ -167,4 +167,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
-```
+
